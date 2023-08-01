@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+}
+
+#number_of_objects{
+    color:red;
+}
+#btn_start
+{
+    color:red;
+    background-color: blue;
+}
